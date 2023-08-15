@@ -41,4 +41,37 @@ RESULTS:
 
 This EDA project aims to shed light on the patterns and characteristics of global terrorism using exploratory data analysis. By visualizing and summarizing the data, we aim to better understand the dynamics of terrorist incidents and contribute to informed discussions and decisions regarding counterterrorism efforts.
 
+GOLDEN TASK- BREAST CANCER PREDICITON
+# Breast Cancer Prediction
+
+This repository contains a Breast Cancer Prediction project, which focuses on using machine learning techniques to predict whether a tumor is malignant or benign based on a set of features.
+
+## Dataset
+
+Kaggle link: https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction/input
+
+
+## Analysis Steps
+
+1. Data Preprocessing: Loading, cleaning,outlier removal.
+2. Data Visualization: Visualizing data distributions and relationships between features.
+3. Model Selection: Random forest and decision tree
+4. Model Training: Training selected models on the preprocessed data.
+5. Model Evaluation: Evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
+6. Model Deployment: Saving the best model for future predictions.
+
+## Results and Visualizations
+
+Visualizations include:
+
+- Correlation heatmap to understand feature relationships.
+- Line plot to find relationship
+
+## Conclusion
+
+We deployed a model which is trained with accuracy of 97% to classify malignant and benign
+
+
+
+
 
